@@ -1,0 +1,6 @@
+JavaScript (Basics) - 10:30 hr
+JavaScript (Advance) - 8:12 hr
+Node JS - 12 hr
+React - 10 hr
+Redux - 7 hr
+React and Next js apps - 1 Per week
