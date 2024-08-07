@@ -16,4 +16,7 @@ int main(){
 
     double e = 1.45;
     cout << e << endl;
+
+    int size =  sizeof(b);
+    cout << size << endl;
 }
